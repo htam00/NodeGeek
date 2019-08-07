@@ -11,12 +11,16 @@ String Number Boolean Null Undefined
 Object Date Array
 
 [Functions]
+<br/>
 fn (params) { // code...}
 
 <h4>Examples</h4>
-====================================================================
+===================================================================
+<br/>
 function fullName(firstName, lastName){
- console.log("Welcome" + firstName + lastName)  
+<br/>
+ console.log("Welcome" + firstName + lastName)
+<br/>  
 }
 
 fullName("Node", "Geek")
