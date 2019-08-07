@@ -39,3 +39,13 @@ person = {
  }
 }
 
+<h3><a href="https://expressjs.com/">Express.JS</a></h3>
+
+* Faster Application Development
+* Provides two templating engines
+* Helps in building application of single-page, multi-page, and hybrid types
+* Makes integration with database easy
+* Simplfiles configuration and customzation of the application
+* Defines an error handling middleware
+
+<h4>Express + EJS</h4>
