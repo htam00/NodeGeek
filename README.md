@@ -11,18 +11,27 @@ String Number Boolean Null Undefined
 Object Date Array
 
 [Functions]
+fn (params) { // code...}
 
-Examples
+<h4>Examples</h4>
 ====================================================================
-<code>
 function fullName(firstName, lastName){
  console.log("Welcome" + firstName + lastName)  
 }
 
 fullName("Node", "Geek")
-</code>
-Result: Welcome Node Geek
 
+<p>Result: Welcome Node Geek</p>
 
 [Objects]
+person = {
+ // Properties
+ firstName: String,
+ lastName:  String,
+ 
+ // methods
+ method() {
+  return "Message" + this.props + this.props
+ }
+}
 
